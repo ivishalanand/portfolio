@@ -153,12 +153,12 @@ hr {
 }
 .copyright {
     text-align: center;
-    color: #45b29a;
+    color: #ffffff;
     font-size: .9rem;
     margin: 0;
     padding: 10px;
   }
 
 .footer-link:hover {
-  color: #2bc4ad;
+  color: #30e3cb;
 }
