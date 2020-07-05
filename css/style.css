@@ -154,8 +154,7 @@ hr {
 .copyright {
     text-align: center;
     color: #45b29a;
-    font-size: 1em;
-    font-weight: 400;
+    font-size: .9rem;
     margin: 0;
     padding: 10px;
   }
